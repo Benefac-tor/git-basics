@@ -1,3 +1,7 @@
 h1 {
   font-family:'Gilroy';
-}
+  color: black;
+  font-size: medium;
+  font-weight: 100;
+  font-style: italic;
+  }
